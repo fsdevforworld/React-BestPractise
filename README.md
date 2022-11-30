@@ -1,254 +1,71 @@
-Contribution: 2022-05-13 20:00
-
-Contribution: 2022-05-14 20:00
-
-Contribution: 2022-05-15 20:00
-
-Contribution: 2022-05-18 20:00
-
-Contribution: 2022-05-20 20:00
-
-Contribution: 2022-05-22 20:00
-
-Contribution: 2022-05-23 20:00
-
-Contribution: 2022-05-24 20:00
-
-Contribution: 2022-05-26 20:00
-
-Contribution: 2022-05-27 20:00
-
-Contribution: 2022-05-28 20:00
-
-Contribution: 2022-05-29 20:00
-
-Contribution: 2022-05-30 20:00
-
-Contribution: 2022-05-31 20:00
-
-Contribution: 2022-06-01 20:00
-
-Contribution: 2022-06-03 20:00
-
-Contribution: 2022-06-04 20:00
-
-Contribution: 2022-06-05 20:00
-
-Contribution: 2022-06-10 20:00
-
-Contribution: 2022-06-11 20:00
-
-Contribution: 2022-06-12 20:00
-
-Contribution: 2022-06-14 20:00
-
-Contribution: 2022-06-15 20:00
-
-Contribution: 2022-06-17 20:00
-
-Contribution: 2022-06-20 20:00
-
-Contribution: 2022-06-21 20:00
-
-Contribution: 2022-06-22 20:00
-
-Contribution: 2022-06-23 20:00
-
-Contribution: 2022-06-26 20:00
-
-Contribution: 2022-06-27 20:00
-
-Contribution: 2022-07-01 20:00
-
-Contribution: 2022-07-03 20:00
-
-Contribution: 2022-07-08 20:00
-
-Contribution: 2022-07-09 20:00
-
-Contribution: 2022-07-12 20:00
-
-Contribution: 2022-07-13 20:00
-
-Contribution: 2022-07-17 20:00
-
-Contribution: 2022-07-18 20:00
-
-Contribution: 2022-07-21 20:00
-
-Contribution: 2022-07-22 20:00
-
-Contribution: 2022-07-23 20:00
-
-Contribution: 2022-07-24 20:00
-
-Contribution: 2022-07-26 20:00
-
-Contribution: 2022-07-30 20:00
-
-Contribution: 2022-07-31 20:00
-
-Contribution: 2022-08-02 20:00
-
-Contribution: 2022-08-03 20:00
-
-Contribution: 2022-08-06 20:00
-
-Contribution: 2022-08-07 20:00
-
-Contribution: 2022-08-09 20:00
-
-Contribution: 2022-08-11 20:00
-
-Contribution: 2022-08-13 20:00
-
-Contribution: 2022-08-14 20:00
-
-Contribution: 2022-08-18 20:00
-
-Contribution: 2022-08-20 20:00
-
-Contribution: 2022-08-21 20:00
-
-Contribution: 2022-08-24 20:00
-
-Contribution: 2022-08-26 20:00
-
-Contribution: 2022-08-30 20:00
-
-Contribution: 2022-09-03 20:00
-
-Contribution: 2022-09-05 20:00
-
-Contribution: 2022-09-06 20:00
-
-Contribution: 2022-09-07 20:00
-
-Contribution: 2022-09-08 20:00
-
-Contribution: 2022-09-09 20:00
-
-Contribution: 2022-09-10 20:00
-
-Contribution: 2022-09-11 20:00
-
-Contribution: 2022-09-13 20:00
-
-Contribution: 2022-09-14 20:00
-
-Contribution: 2022-09-15 20:00
-
-Contribution: 2022-09-16 20:00
-
-Contribution: 2022-09-17 20:00
-
-Contribution: 2022-09-18 20:00
-
-Contribution: 2022-09-19 20:00
-
-Contribution: 2022-09-20 20:00
-
-Contribution: 2022-09-21 20:00
-
-Contribution: 2022-09-22 20:00
-
-Contribution: 2022-09-24 20:00
-
-Contribution: 2022-09-28 20:00
-
-Contribution: 2022-09-29 20:00
-
-Contribution: 2022-09-30 20:00
-
-Contribution: 2022-10-02 20:00
-
-Contribution: 2022-10-03 20:00
-
-Contribution: 2022-10-04 20:00
-
-Contribution: 2022-10-06 20:00
-
-Contribution: 2022-10-08 20:00
-
-Contribution: 2022-10-10 20:00
-
-Contribution: 2022-10-13 20:00
-
-Contribution: 2022-10-14 20:00
-
-Contribution: 2022-10-15 20:00
-
-Contribution: 2022-10-18 20:00
-
-Contribution: 2022-10-19 20:00
-
-Contribution: 2022-10-21 20:00
-
-Contribution: 2022-10-23 20:00
-
-Contribution: 2022-10-24 20:00
-
-Contribution: 2022-10-26 20:00
-
-Contribution: 2022-10-29 20:00
-
-Contribution: 2022-10-30 20:00
-
-Contribution: 2022-10-31 20:00
-
-Contribution: 2022-11-01 20:00
-
-Contribution: 2022-11-02 20:00
-
-Contribution: 2022-11-05 20:00
-
-Contribution: 2022-11-06 20:00
-
-Contribution: 2022-11-07 20:00
-
-Contribution: 2022-11-09 20:00
-
-Contribution: 2022-11-11 20:00
-
-Contribution: 2022-11-12 20:00
-
-Contribution: 2022-11-13 20:00
-
-Contribution: 2022-11-14 20:00
-
-Contribution: 2022-11-16 20:00
-
-Contribution: 2022-11-19 20:00
-
-Contribution: 2022-11-23 20:00
-
-Contribution: 2022-11-24 20:00
-
-Contribution: 2022-11-25 20:00
-
-Contribution: 2022-11-26 20:00
-
-Contribution: 2022-11-27 20:00
-
-Contribution: 2022-11-29 20:00
-
-Contribution: 2022-11-30 20:00
-
-Contribution: 2022-12-03 20:00
-
-Contribution: 2022-12-05 20:00
-
-Contribution: 2022-12-07 20:00
-
-Contribution: 2022-12-08 20:00
-
-Contribution: 2022-12-09 20:00
-
-Contribution: 2022-12-10 20:00
-
-Contribution: 2022-12-11 20:00
-
-Contribution: 2022-12-12 20:00
-
-Contribution: 2022-12-13 20:00
-
+# React TypeScript template with Vite
+
+This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev).
+
+## What's inside?
+
+- [ReactJS](https://reactjs.org)
+- [Vite](https://vitejs.dev)
+- [TypeScript](https://www.typescriptlang.org)
+- [Jest](https://jestjs.io)
+- [Testing Library](https://testing-library.com)
+- [Cypress](https://www.cypress.io)
+- [ESLint](https://eslint.org)
+- [Prettier](https://prettier.io)
+- [Polyfills](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy#readme)
+
+## Getting started
+
+1. Create and Access the project.
+
+   ```bash
+   yarn create vite
+   cd my-app
+   git init
+   yarn
+   ```
+
+2. Start dev server with hot reload at http://localhost:3000 and Build.
+   ```bash
+   yarn run dev
+   yarn run build
+   ```
+
+## Recommended VS Code extensions
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [React Extension Pack](https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack)
+- [Git]
+  (https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+  https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+## Other commands
+
+### Test commands
+
+- Run unit tests and watch
+  ```bash
+  npm run test:unit
+  ```
+- Run unit tests with coverage
+  ```bash
+  npm run test:unit:coverage
+  ```
+- Run e2e tests
+  ```bash
+  npm run test:e2e
+  ```
+
+# Install Guide
+
+## 1. Using vite
+
+## 2. Installing VScode Extensions
+
+## 3. ESLint Config
+
+    ```bash
+    yarn add --save-dev eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+    ```
